@@ -1,0 +1,17 @@
+{
+  "problem_settings": {
+    "max_angle": 45,
+    "pit_profile_filename": "../data/test2.prob",
+    "penalty": 5
+  },
+  "solver_settings": {
+    "method": "VQE",
+    "optimizer": "L_BFGS_B",
+    "max_iter": 100,
+    "num_qubits": 9,
+    "num_layers": 1,
+    "backend": "statevector_simulator",
+    "frag_num_loops": 1,
+    "mask": "../masks/masks2.txt"
+  }
+}

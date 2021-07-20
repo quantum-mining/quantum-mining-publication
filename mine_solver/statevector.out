@@ -1,0 +1,110 @@
+Grid:
+-2.0  3.0 -1.0 
+ 0.0  5.0  0.0 
+ 0.0  0.0  0.0 
+------------------------------------
+Building Hamiltonian...WeightedPauliOperator details:
+IIIZ	(-0.41666666666666663+0j)
+IIII	(-0.7499999999999997+0j)
+IIZI	(2.0833333333333335+0j)
+IZII	(0.08333333333333337+0j)
+ZIII	(0.7499999999999997+0j)
+ZIIZ	(-0.5833333333333334+0j)
+ZIZI	(-0.5833333333333334+0j)
+ZZII	(-0.5833333333333334+0j)
+
+ Done!
+Building Circuit...N QUBITS  4
+ Done!
+Running VQE...Evaluation: 1, Loss: -2.4999999999999987
+Evaluation: 2, Loss: -2.4999999949999983
+Evaluation: 3, Loss: -2.5000000074999997
+Evaluation: 4, Loss: -2.499999997499998
+Evaluation: 5, Loss: -2.5000000249999985
+Evaluation: 6, Loss: -2.4999999999999996
+Evaluation: 7, Loss: -2.4999999999999987
+Evaluation: 8, Loss: -2.4999999999999987
+Evaluation: 9, Loss: -4.243375482541572
+Evaluation: 10, Loss: -4.243375483340613
+Evaluation: 11, Loss: -4.2433754643645365
+Evaluation: 12, Loss: -4.243375484190932
+Evaluation: 13, Loss: -4.243375482541572
+Evaluation: 14, Loss: -4.243375483340615
+Evaluation: 15, Loss: -4.2433754643645365
+Evaluation: 16, Loss: -4.243375484190933
+Evaluation: 17, Loss: -4.938879331735094
+Evaluation: 18, Loss: -4.9388793324860005
+Evaluation: 19, Loss: -4.938879335954488
+Evaluation: 20, Loss: -4.938879332865499
+Evaluation: 21, Loss: -4.938879331735094
+Evaluation: 22, Loss: -4.9388793324860005
+Evaluation: 23, Loss: -4.938879335954492
+Evaluation: 24, Loss: -4.938879332865499
+Evaluation: 25, Loss: -4.978017778624391
+Evaluation: 26, Loss: -4.978017779335097
+Evaluation: 27, Loss: -4.978017778407749
+Evaluation: 28, Loss: -4.978017779515422
+Evaluation: 29, Loss: -4.978017778624391
+Evaluation: 30, Loss: -4.978017779335099
+Evaluation: 31, Loss: -4.978017778407749
+Evaluation: 32, Loss: -4.978017779515424
+Evaluation: 33, Loss: -4.983165031398777
+Evaluation: 34, Loss: -4.983165032061218
+Evaluation: 35, Loss: -4.983165031154584
+Evaluation: 36, Loss: -4.983165032029769
+Evaluation: 37, Loss: -4.983165031398777
+Evaluation: 38, Loss: -4.983165032061218
+Evaluation: 39, Loss: -4.983165031154585
+Evaluation: 40, Loss: -4.98316503202977
+Evaluation: 41, Loss: -4.997034212198506
+Evaluation: 42, Loss: -4.997034212485285
+Evaluation: 43, Loss: -4.99703421210731
+Evaluation: 44, Loss: -4.997034211949715
+Evaluation: 45, Loss: -4.997034212198506
+Evaluation: 46, Loss: -4.997034212485288
+Evaluation: 47, Loss: -4.99703421210731
+Evaluation: 48, Loss: -4.997034211949713
+Evaluation: 49, Loss: -4.999502625384507
+Evaluation: 50, Loss: -4.999502625476106
+Evaluation: 51, Loss: -4.999502625330259
+Evaluation: 52, Loss: -4.999502625205655
+Evaluation: 53, Loss: -4.999502625384507
+Evaluation: 54, Loss: -4.999502625476108
+Evaluation: 55, Loss: -4.999502625330259
+Evaluation: 56, Loss: -4.999502625205653
+Evaluation: 57, Loss: -4.999999126247938
+Evaluation: 58, Loss: -4.999999126247582
+Evaluation: 59, Loss: -4.999999126229197
+Evaluation: 60, Loss: -4.999999126253244
+Evaluation: 61, Loss: -4.999999126247938
+Evaluation: 62, Loss: -4.9999991262475785
+Evaluation: 63, Loss: -4.999999126229192
+Evaluation: 64, Loss: -4.999999126253243
+Evaluation: 65, Loss: -4.999999999409986
+Evaluation: 66, Loss: -4.999999999410043
+Evaluation: 67, Loss: -4.9999999994104645
+Evaluation: 68, Loss: -4.99999999941008
+Evaluation: 69, Loss: -4.999999999409986
+Evaluation: 70, Loss: -4.999999999410043
+Evaluation: 71, Loss: -4.999999999410463
+Evaluation: 72, Loss: -4.99999999941008
+Evaluation: 73, Loss: -4.999999999996501
+Evaluation: 74, Loss: -4.999999999996512
+Evaluation: 75, Loss: -4.999999999996513
+Evaluation: 76, Loss: -4.999999999996513
+Evaluation: 77, Loss: -4.999999999996501
+Evaluation: 78, Loss: -4.999999999996512
+Evaluation: 79, Loss: -4.999999999996514
+Evaluation: 80, Loss: -4.999999999996513
+ Done!
+------------------------------------
+Results Report:
+Solving Took 0.48514318466186523 seconds
+Loss Function: -4.999999999996501
+Optimal Parameters: [1.32626629 1.93758699 1.44853228 3.14159265 1.81532101 1.20400523
+ 1.69305878]
+Final Configuration:
+Grid:
+ 1.0  1.0  1.0 
+ 0.0  1.0  0.0 
+ 0.0  0.0  0.0 
